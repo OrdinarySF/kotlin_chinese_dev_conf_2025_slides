@@ -21,7 +21,7 @@ layout: cover
 
 ::speaker::
 
-[Speaker Name]
+Ordinary SF
 
 <!--
 【演讲稿 - P1 封面】
